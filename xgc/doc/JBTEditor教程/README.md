@@ -14,7 +14,7 @@ JBTEditor是基于Eclipse RCP开发的。需要eclipse rpc版本IDE才能运行�
 
 1. 点击左上方File -> Open Projects from File System
 
-![image-20230713114958158](./img/image-20230713114958158.png)
+![image-20230713114958158](../img/image-20230713114958158.png)
 
 2.点击之后，会弹出下面弹窗。
 
